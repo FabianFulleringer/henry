@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+  }
+
+
+  #titulo {
+
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid blue;
+    padding: 10px;
+
+    }
+
+h4 {
+    font-size: 30px;
+}
+
+.Menu {
+
+    background-color: rgb(121, 121, 170);
+    padding: 3px;
+    margin-right: 50%;
+}
+
+.ciudades {
+
+background-color: rgb(118, 206, 118);
+border: 3px solid black;
+padding: 3px;
+margin-right: 50%;
+width: 400px;
+height: 150px;
+
+}
